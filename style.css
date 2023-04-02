@@ -1,21 +1,3 @@
-/* h1{
-    color: red;
-    font-size: 40px;
-    font-family: 'Courier New', Courier, monospace;
-    border: 2px solid black;
-} */
-/* .carousel-item {
-    transform:  0.5s ease, opacity ;
-} */
-/* .w-100{
-    width: 50px;
-    
-}  */
-
-/* img.d-block.w-100{
-    width: 80%!important;
-    height: auto!important;
-} */
 
 
 .quote {
@@ -36,26 +18,7 @@
 .quote p {
     display: inline;
   }
-/* .imghkr{
-    height: 80%;
-    width: auto;
-} */
 
-/* .img-fluid{
-
- max-width: 100%; 
-} */
-
-/* .carousel-inner {
-    max-height: 400px;}
-.img {
-      max-height: 400px;
-    
-  }
-  
-  .carousel-indicators img {
-    max-width: 100px;
-  } */
 
 #navbar{
     height: 120vh;
