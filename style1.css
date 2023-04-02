@@ -198,7 +198,7 @@ dd {
 }
 
 blockquote {
-    margin: 0 0 1rem
+    margin: 0 0 1rem;
 }
 
 b,
@@ -6584,7 +6584,10 @@ fieldset:disabled .btn {
 .carousel-inner {
     position: relative;
     width: 100%;
-    overflow: hidden
+    overflow: hidden;
+    /* left: 50%;
+    top: 50%;
+    transform: translate(-50%,50%); */
 }
 
 .carousel-inner::after {
@@ -8174,7 +8177,7 @@ fieldset:disabled .btn {
 }
 
 .text-center {
-    text-align: center !important
+    text-align: center !important;
 }
 
 .text-decoration-none {
